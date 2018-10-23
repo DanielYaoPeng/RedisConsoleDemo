@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4ADBF155-4452-4E80-9B74-972E0F50F1B3}</ProjectGuid>
+    <ProjectGuid>{1EBCDEA3-5067-4A88-82CB-9265FCDB72CA}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>RedisConsoleDemoOne</RootNamespace>

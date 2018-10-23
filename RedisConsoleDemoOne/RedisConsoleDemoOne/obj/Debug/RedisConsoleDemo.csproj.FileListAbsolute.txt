@@ -1,0 +1,10 @@
+D:\redis\RedisDemo\RedisConsoleDemoOne\RedisConsoleDemoOne\bin\Debug\RedisConsoleDemoOne.exe.config
+D:\redis\RedisDemo\RedisConsoleDemoOne\RedisConsoleDemoOne\bin\Debug\RedisConsoleDemoOne.exe
+D:\redis\RedisDemo\RedisConsoleDemoOne\RedisConsoleDemoOne\bin\Debug\RedisConsoleDemoOne.pdb
+D:\redis\RedisDemo\RedisConsoleDemoOne\RedisConsoleDemoOne\bin\Debug\StackExchange.Redis.dll
+D:\redis\RedisDemo\RedisConsoleDemoOne\RedisConsoleDemoOne\bin\Debug\StackExchange.Redis.xml
+D:\redis\RedisDemo\RedisConsoleDemoOne\RedisConsoleDemoOne\obj\Debug\RedisConsoleDemo.csprojAssemblyReference.cache
+D:\redis\RedisDemo\RedisConsoleDemoOne\RedisConsoleDemoOne\obj\Debug\RedisConsoleDemo.csproj.CoreCompileInputs.cache
+D:\redis\RedisDemo\RedisConsoleDemoOne\RedisConsoleDemoOne\obj\Debug\RedisConsoleDemo.csproj.CopyComplete
+D:\redis\RedisDemo\RedisConsoleDemoOne\RedisConsoleDemoOne\obj\Debug\RedisConsoleDemoOne.exe
+D:\redis\RedisDemo\RedisConsoleDemoOne\RedisConsoleDemoOne\obj\Debug\RedisConsoleDemoOne.pdb
